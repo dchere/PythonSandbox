@@ -1,9 +1,10 @@
 #! /usr/bin/env python3
 # tab size is 2
 #
-# Напишите консольную программу которая будет обходить матрицу улиткой начиная с
-# левого верхнего угла. На входе, параметрами 2 числа, размерность матрицы IxJ,
-# на выходе список текущих координат для каждой посещенной точки. Например:
+# A console program that travels snail through the matrix starting at the upper
+# left corner. As the input is 2 numbers (the dimension of the matrix IxJ). As
+# the output is a list of current coordinates for each visited point.
+# Example:
 # visit.py 3x3
 # 0,0
 # 0,1
